@@ -4,6 +4,14 @@
 
 This report presents an overview, cleaning process, and analysis recommendations for a Bitcoin dataset capturing minute-by-minute trading activity for the year 2017. The dataset includes important financial metrics such as opening and closing prices, highs and lows, trade volumes in BTC and USD.
 
+### Link to Power BI and Excel File
+
+The Power BI and Excel files exceeds the 25mb upload limit, therefore a link to access these files have been included here:
+
+Click on this link to access the Power BI File https://1drv.ms/u/c/0f2867637f111f76/ESuPMXw7kcBKugFtiGFr0AIB4IZmECfQWwR5BQq82QholQ?e=xxoRP0
+
+Click on this link to access the Excel File https://1drv.ms/x/c/0f2867637f111f76/EfG6XB63MDZLj-Frt133Vb8BsxZJ-GppEcVQlFrXJb-lqg?e=vCh7UJ
+
 ### Dataset Overview
 
 The dataset contained 525,599 rows and 9 columns, representing BTC/USD trade data at 1-minute intervals. 
